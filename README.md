@@ -1,2 +1,1 @@
-# memo
-study memo
+# 기초 지식 메모하는 저장소
