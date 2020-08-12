@@ -23,6 +23,7 @@
 - 반대로 파일 변경시간이 서로 틀리거나 파일크기등등이 서로 맞질않으면 이때는 200 응답을 내고 서버는 요청한 파일을 클라이언트에게 전달합니다.
 - 클라이언트는 200 응답코드를 받았으므로 기존의 파일이 있다면 삭제하고 새로운 파일로 대체 또는 캐시하게 됩니다.
 - 대부분 동적인 파일(PHP)은 항상 200 응답을 냅니다. 반면 정적인 HTML 이나 gif, jpg, png, mp3, mpg, asf 등은 거의 대부분 304로 응답합니다.
+# HTTPS(HyperText Transfer Protocol over Secure Socket Layer)
 # API(Application Programming Interface)
 - API는 이미 만들어진 코드의 집합체라고 볼 수 있으며, 개발자들이 만들기 어렵고 힘든 부분을 쉽게 구현하도록 하는 프로그램이라고 볼 수 있음. 마치 집에서 가구를 만들 때 직접 디자인하고, 재료를 구하고, 재단하고, 못을 박고 하는 등 혼자서 모든 것을 하는 대신 가구 만들기 키트를 사는 것과 같다고 보면 됨.
 # Ajax(Asynchronous JavaScript and XML)
