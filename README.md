@@ -106,9 +106,9 @@
 - 마지막으로 웹페이지를 조회할 때, 링크를 통해 특정 페이지로 바로 이동하려면 해당 링크와 관련된 정보가 필요한데 POST는 요청 데이터가 Body에 담겨 있기 때문에 링크 정보를 가져올 수 없음.
 - 반면, GET은 URL에 요청 파라미터를 가지고 있기 때문에 링크를 걸 때, URL에 파라미터를 사용해 더 디테일하게 페이지를 링크할 수 있음.
 # TCP(Transmission Control Protocol)
-
+- 컴퓨터가 다른 컴퓨터와 데이터 통신을 하기 위한 규약(프로토콜)의 일종이다. TCP는 세계 통신표준으로 개발된 OSI 모형에서 4번째 계층인 전송 계층(Transport Layer)에서 사용하는 규약으로, 보통 하위 계층에서 사용하는 IP와 엮어서 TCP/IP로 표현하는 경우가 많다. 동일 계층에서 사용하는 또다른 프로토콜로 UDP가 존재.
 # IP(Internet Protocol)
-
+- 인터넷 프로토콜(Internet Protocol)의 약자로 흔히는 이 프로토콜에서 각 장치를 나타내는 IP 주소를 가리키는 말로 쓰인다.각 장치들의 주민등록번호라고 생각하면 쉽다
 # UDP
 
 # HTTPS(HyperText Transfer Protocol over Secure Socket Layer)
